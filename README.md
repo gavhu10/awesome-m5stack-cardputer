@@ -91,6 +91,7 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Bruce](https://github.com/pr3y/Bruce)
 - [Palnagotchi](https://github.com/viniciusbo/m5-palnagotchi)
 - [433Mhz sniffer](https://github.com/bmorcelli/io433)
+- [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
 
 ### Game Related
 - [TinyKnight Game](https://github.com/foopod/tinyKnight)

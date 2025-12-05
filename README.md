@@ -129,3 +129,5 @@ These builtin apps can be found at: https://github.com/m5stack/M5Cardputer-UserD
 - [Rust firmware hal and examples](https://github.com/Kezii/Rust-M5Stack-Cardputer)
 - [Simple StopWatch](https://github.com/qubiX00/stopwatch-cardputer)
 - [Weather App](https://github.com/qubiX00/weather-cardputer)
+- [MiniAcid](https://github.com/urtubia/miniacid)
+  - [Demo site](https://miniacid.mrbook.org)
